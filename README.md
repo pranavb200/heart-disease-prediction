@@ -35,9 +35,7 @@ This project builds a machine learning model to predict the presence of heart di
 
 You can open and run the notebook interactively in Colab using the badge below:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pranavb200/heart-disease-prediction/blob/main/notebooks/heart_disease_prediction.ipynb)
-
-👉 Replace notebooks/main_notebook.ipynb in the link above with the actual path and name of your notebook inside this repo.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pranavb200/heart-disease-prediction/blob/main/Heart_Disease_Prediction.ipynb)
 
 ---
 
