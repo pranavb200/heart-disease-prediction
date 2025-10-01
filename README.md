@@ -37,7 +37,7 @@ You can open and run the notebook interactively in Colab using the badge below:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pranavb200/heart-disease-prediction/blob/main/notebooks/heart_disease_prediction.ipynb)
 
-👉 Adjust the path (`notebooks/heart_disease_prediction.ipynb`) if your notebook is located somewhere else in your repo.
+👉 Replace notebooks/main_notebook.ipynb in the link above with the actual path and name of your notebook inside this repo.
 
 ---
 
